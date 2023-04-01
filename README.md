@@ -7,5 +7,5 @@
 - css
 - Javascript
 
-## Click thee link bellow to see live
+## Click the link bellow to see live
 https://inacio000.github.io/rocket-blog/
