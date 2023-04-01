@@ -1,2 +1,8 @@
-# rocket-blog
-Rocketseat challenge
+# Rocket Blog
+![preview](Capa.png)
+
+## Techs
+
+- html
+- css
+- Javascript
