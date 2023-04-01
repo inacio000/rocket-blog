@@ -1,4 +1,4 @@
-# Rocket Blog
+# Rocket Blog (Challenge)
 ![preview](Capa.png)
 
 ## Techs
@@ -7,5 +7,5 @@
 - css
 - Javascript
 
-## View in live
+## Click thee link bellow to see live
 https://inacio000.github.io/rocket-blog/
